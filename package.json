@@ -1,7 +1,6 @@
 {
   "name": "freelanceplatform",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server",
@@ -16,5 +15,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishwanthPerumandla/FreelancePlatform.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/RishwanthPerumandla/FreelancePlatform/issues"
+  },
+  "homepage": "https://github.com/RishwanthPerumandla/FreelancePlatform#readme",
+  "description": ""
 }
